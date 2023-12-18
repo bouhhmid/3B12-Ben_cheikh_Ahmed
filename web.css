@@ -184,7 +184,7 @@ section .title::after{
 /* home section styling */
 .home {
     display: flex;
-   /* background-image: url("Haha.jpg"); */ 
+    background-image: url("home_screen.jpg"); */ 
     height: 100vh;
     color: #958484;
     min-height: 500px;
