@@ -29,10 +29,10 @@ document.addEventListener("DOMContentLoaded", function() {
         backSpeed: 60,
         loop: true
     };
-
+/*
     new Typed(".typing", typedOptions);
     new Typed(".typing-2", typedOptions);
-
+*/ 
     var owlCarouselOptions = {
         margin: 20,
         loop: true,
